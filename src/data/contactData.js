@@ -1,7 +1,7 @@
 export const contactData = [
     {
         title: "Address :",
-        data: "Shri J.B. & S.A. Sarvajanik High School & Shri K.D. Shah Higher Secondary Section"
+        data: "Vikram Sarabhai School Bardoli, Gujarat 394601"
     },
     {
         title: "Office Phone :",
@@ -9,7 +9,7 @@ export const contactData = [
     },
     {
         title: "Email :",
-        data: "info@rf-daboo.edu.in"
+        data: "info@Vks.com"
     }
 ];
 

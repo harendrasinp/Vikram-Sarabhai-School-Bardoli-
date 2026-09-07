@@ -60,7 +60,7 @@ const HeroSlider = () => {
                             {/* Text */}
                             <div className="absolute z-10 inset-0 flex flex-col items-center justify-center text-white  text-center">
 
-                                <h1 className="text-3xl md:text-2xl font-bold">
+                                <h1 className="text-3xl md:text-3xl font-bold">
                                     Welcome To Vikram Sarabhai School Bardoli
                                 </h1>
 

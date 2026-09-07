@@ -1,26 +1,26 @@
 export const SchoolsList = [
     {
-        name: "Shri J. B. & S. A. Sarvajanik High School",
+        name: "Branch 1",
         path: "/schools/sarvajanik-high-school"
     },
     {
-        name: "Kusum Jayesh Bhulka Bhawan",
+        name: "Branch 2",
         path: "/schools/kusum-jayesh-bhulka-bhawan"
     },
     {
-        name: "Anila-Suresh Primary School",
+        name: "Branch 3",
         path: "/schools/anila-suresh-primary-school"
     },
     {
-        name: "M. P. Patel Secondary School",
+        name: "Branch 4",
         path: "/schools/m-p-patel-secondary-school"
     },
     {
-        name: "Shri K. B. Patel English Medium Higher Secondary School",
+        name: "Branch 5",
         path: "/schools/shri-k-b-patel-english-medium-higher-secondary-school"
     },
     {
-        name: "Smt. R. P. Chauhan Arts, Smt. J. K. Shah, and Shri K. D. Shah Commerce College (ACCV)",
+        name: "Branch 6",
         path: "/schools/smt-r-p-chauhan-arts-smt-j-k-shah-and-shri-k-d-shah-commerce-college-accv"
     }
 ]

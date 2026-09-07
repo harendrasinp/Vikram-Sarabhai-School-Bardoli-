@@ -36,12 +36,19 @@ const Header = () => {
             className="object-cover md:w-full md:h-full"
           />
         </div>
-        <div className="absolute top-15 right-1 md:block w-8 h-8 md:w-18 md:h-18 md:top-4 md:right-0">
-          <Image src="/header/rfimage2.png" alt="header image" width={100} height={100} className="w-full h-auto object-cover" />
+        <div className="hidden absolute top-15 right-1 md:block w-8 h-8 md:w-100 md:h-33 md:top-3.5 md:right-0">
+          <Image
+            src="/header/vksImage2.png"
+            alt="header image"
+            width={400}
+            height={395}
+            quality={100}
+            className="w-full h-auto object-contain"
+          />
         </div>
         <div className="flex-col items-center text-BlueNavyColor text-sm font-bold md:text-2xl">
-          <h1 >Vikram Sarabhai School</h1>
-          <h1>International school(Bardoli)</h1>
+          <h1 >Vikram Sarabhai</h1>
+          <h1>International school (Bardoli)</h1>
         </div>
         {/* --------------------------Hamburger icon--------------------------------------------------------- */}
         <div>
