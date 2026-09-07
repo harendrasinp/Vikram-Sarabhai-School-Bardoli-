@@ -18,7 +18,7 @@ const Marque = () => {
                 <Phone className="w-5 h-5 text-orange-300" />
                 <span className=" text-BlueNavyColor" >+91 12345 67890, +91 12345 67890</span>
                 <Mail className="w-5 h-5 text-orange-300" />
-                <span className=" text-BlueNavyColor" >info@RfDaboo.com</span>
+                <span className=" text-BlueNavyColor" >info@Vks.com</span>
             </motion.h1>
         </div>
     )

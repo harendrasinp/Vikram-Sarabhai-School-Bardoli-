@@ -27,12 +27,12 @@ const Header = () => {
   return (
     <div className="relative bg-[url('/header/headerbg2.png')] md:bg-[url('/header/headerbg1.png')] bg-cover bg-no-repeat bg-center w-full md:bg-white">
       <div className="flex items-end px-2 py-1">
-        <div className="flex items-end px-4 md:py-2 w-25 h-25 md:w-35 md:h-35">
+        <div className="flex items-end md:py-2 w-30 h-27 md:w-40 md:h-40 md:px-4">
           <Image
-            src="/logos/Rf-daboo.png"
+            src="/logos/vksLogo.png"
             alt="school logo"
-            width={150}
-            height={150}
+            width={180}
+            height={180}
             className="object-cover md:w-full md:h-full"
           />
         </div>
@@ -40,8 +40,8 @@ const Header = () => {
           <Image src="/header/rfimage2.png" alt="header image" width={100} height={100} className="w-full h-auto object-cover" />
         </div>
         <div className="flex-col items-center text-BlueNavyColor text-sm font-bold md:text-2xl">
-          <h1 >Shree R. F. Daboo </h1>
-          <h1>Education Society (VYARA)</h1>
+          <h1 >Vikram Sarabhai School</h1>
+          <h1>International school(Bardoli)</h1>
         </div>
         {/* --------------------------Hamburger icon--------------------------------------------------------- */}
         <div>
