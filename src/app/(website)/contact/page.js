@@ -32,7 +32,7 @@ const Contact = () => {
           <main className="w-full bg-violet-50 p-4">
             <h1 className="text-center bg-gray-800 text-orange-300 p-2">FIND US ON MAP</h1>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.0308758329597!2d73.385615874292!3d21.111335184939097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be07eb14bd927d1%3A0x16d68e7937a4607c!2sSHRI%20J.B.%20%26%20S.A.%20SARVAJANIK%20HIGH%20SCHOOL%20%26%20SHRI%20K.D.%20SHAH%20HIGHER%20SECONDARY%20SECTION!5e0!3m2!1sen!2sin!4v1779900802511!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.3352111542044!2d73.10783289999999!3d21.139054099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be067738e1c54d5%3A0x3ec160a450bba34c!2sVikram%20Sarabhai%20School%20Bardoli!5e0!3m2!1sen!2sin!4v1788784431431!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -42,7 +42,6 @@ const Contact = () => {
               className="h-61"
             ></iframe>
           </main>
-
         </div>
 
 
