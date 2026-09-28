@@ -43,7 +43,7 @@ const LoginModal = () => {
                             type="text"
                             name="email"
                             value={formData.email}
-                            placeholder="Username"
+                            placeholder="Email"
                             onChange={handleChange}
                             className="border border-gray-400 rounded py-1 px-2 focus:outline-none focus:ring-2 focus:ring-orange-300"
                         />
